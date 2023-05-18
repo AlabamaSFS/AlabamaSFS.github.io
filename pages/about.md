@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "About"
 meta_title: "SFS@BAMA"
 permalink: "/about/"

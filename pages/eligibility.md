@@ -1,11 +1,10 @@
 ---
-layout: page
-title: "Scholarship Eligibility"
+layout: page-fullwidth
+title: "Eligibility for SFS@BAMA Scholarship"
 meta_title: "SFS@BAMA"
 permalink: "/eligibility/"
 ---
 
-## Eligibility for SFS@BAMA Scholarship
 To be eligible for consideration for the SFS@BAMA scholarship, the student must meet all of the following:
 
 1. United States citizen or Permanent Resident

@@ -15,6 +15,7 @@
 /* Corporate Identity Colorpalette
    https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
 ------------------------------------------------------------------- */
+/*$ci-1: #334D5C;		// dark turquoise */
 /* Foundation Color Variables
 ------------------------------------------------------------------- */
 /* Grey Scale
@@ -1664,13 +1665,13 @@ button, .button {
   padding-bottom: 1.0625rem;
   padding-left: 2rem;
   font-size: 1rem;
-  background-color: #334D5C;
-  border-color: #293e4a;
+  background-color: #932134;
+  border-color: #761a2a;
   color: #FFFFFF;
   transition: background-color 300ms ease-out;
 }
 button:hover, button:focus, .button:hover, .button:focus {
-  background-color: #293e4a;
+  background-color: #761a2a;
 }
 button:hover, button:focus, .button:hover, .button:focus {
   color: #FFFFFF;
@@ -1720,12 +1721,12 @@ button.warning:hover, button.warning:focus, .button.warning:hover, .button.warni
   color: #FFFFFF;
 }
 button.info, .button.info {
-  background-color: #334D5C;
-  border-color: #293e4a;
+  background-color: #932134;
+  border-color: #761a2a;
   color: #FFFFFF;
 }
 button.info:hover, button.info:focus, .button.info:hover, .button.info:focus {
-  background-color: #293e4a;
+  background-color: #761a2a;
 }
 button.info:hover, button.info:focus, .button.info:hover, .button.info:focus {
   color: #FFFFFF;
@@ -1771,21 +1772,21 @@ button.round, .button.round {
   border-radius: 1000px;
 }
 button.disabled, button[disabled], .button.disabled, .button[disabled] {
-  background-color: #334D5C;
-  border-color: #293e4a;
+  background-color: #932134;
+  border-color: #761a2a;
   color: #FFFFFF;
   cursor: default;
   opacity: 0.7;
   box-shadow: none;
 }
 button.disabled:hover, button.disabled:focus, button[disabled]:hover, button[disabled]:focus, .button.disabled:hover, .button.disabled:focus, .button[disabled]:hover, .button[disabled]:focus {
-  background-color: #293e4a;
+  background-color: #761a2a;
 }
 button.disabled:hover, button.disabled:focus, button[disabled]:hover, button[disabled]:focus, .button.disabled:hover, .button.disabled:focus, .button[disabled]:hover, .button[disabled]:focus {
   color: #FFFFFF;
 }
 button.disabled:hover, button.disabled:focus, button[disabled]:hover, button[disabled]:focus, .button.disabled:hover, .button.disabled:focus, .button[disabled]:hover, .button[disabled]:focus {
-  background-color: #334D5C;
+  background-color: #932134;
 }
 button.disabled.secondary, button[disabled].secondary, .button.disabled.secondary, .button[disabled].secondary {
   background-color: #A1D044;
@@ -1856,21 +1857,21 @@ button.disabled.warning:hover, button.disabled.warning:focus, button[disabled].w
   background-color: #E27A3F;
 }
 button.disabled.info, button[disabled].info, .button.disabled.info, .button[disabled].info {
-  background-color: #334D5C;
-  border-color: #293e4a;
+  background-color: #932134;
+  border-color: #761a2a;
   color: #FFFFFF;
   cursor: default;
   opacity: 0.7;
   box-shadow: none;
 }
 button.disabled.info:hover, button.disabled.info:focus, button[disabled].info:hover, button[disabled].info:focus, .button.disabled.info:hover, .button.disabled.info:focus, .button[disabled].info:hover, .button[disabled].info:focus {
-  background-color: #293e4a;
+  background-color: #761a2a;
 }
 button.disabled.info:hover, button.disabled.info:focus, button[disabled].info:hover, button[disabled].info:focus, .button.disabled.info:hover, .button.disabled.info:focus, .button[disabled].info:hover, .button[disabled].info:focus {
   color: #FFFFFF;
 }
 button.disabled.info:hover, button.disabled.info:focus, button[disabled].info:hover, button[disabled].info:focus, .button.disabled.info:hover, .button.disabled.info:focus, .button[disabled].info:hover, .button[disabled].info:focus {
-  background-color: #334D5C;
+  background-color: #932134;
 }
 
 button::-moz-focus-inner {
@@ -2483,12 +2484,12 @@ meta.foundation-mq-topbar {
   font-size: 0.9375rem;
   padding-right: 1.0416666667rem;
   padding-left: 1.0416666667rem;
-  background-color: #334D5C;
-  border-color: #293e4a;
+  background-color: #932134;
+  border-color: #761a2a;
   color: #FFFFFF;
 }
 .top-bar-section ul li > a.button:hover, .top-bar-section ul li > a.button:focus {
-  background-color: #293e4a;
+  background-color: #761a2a;
 }
 .top-bar-section ul li > a.button:hover, .top-bar-section ul li > a.button:focus {
   color: #FFFFFF;
@@ -2541,12 +2542,12 @@ meta.foundation-mq-topbar {
   font-size: 0.9375rem;
   padding-right: 1.0416666667rem;
   padding-left: 1.0416666667rem;
-  background-color: #334D5C;
-  border-color: #293e4a;
+  background-color: #932134;
+  border-color: #761a2a;
   color: #FFFFFF;
 }
 .top-bar-section ul li > button:hover, .top-bar-section ul li > button:focus {
-  background-color: #293e4a;
+  background-color: #761a2a;
 }
 .top-bar-section ul li > button:hover, .top-bar-section ul li > button:focus {
   color: #FFFFFF;
@@ -2620,7 +2621,7 @@ meta.foundation-mq-topbar {
   width: 0;
   height: 0;
   border: inset 5px;
-  border-color: transparent transparent transparent rgba(51, 77, 92, 0.4);
+  border-color: transparent transparent transparent rgba(147, 33, 52, 0.4);
   border-left-style: solid;
   margin-right: 1.0416666667rem;
   margin-top: -4.5px;
@@ -2784,7 +2785,7 @@ meta.foundation-mq-topbar {
     width: 0;
     height: 0;
     border: inset 5px;
-    border-color: rgba(51, 77, 92, 0.4) transparent transparent transparent;
+    border-color: rgba(147, 33, 52, 0.4) transparent transparent transparent;
     border-top-style: solid;
     margin-top: -2.5px;
     top: 1.5625rem;
@@ -2958,8 +2959,8 @@ meta.foundation-mq-topbar {
   padding: 0.875rem 1.5rem 0.875rem 0.875rem;
   font-size: 0.9375rem;
   transition: opacity 300ms ease-out;
-  background-color: #334D5C;
-  border-color: #2c424f;
+  background-color: #932134;
+  border-color: #7e1c2d;
   color: #FFFFFF;
 }
 .alert-box .close {
@@ -3004,8 +3005,8 @@ meta.foundation-mq-topbar {
   color: #FFFFFF;
 }
 .alert-box.info {
-  background-color: #334D5C;
-  border-color: #2c424f;
+  background-color: #932134;
+  border-color: #7e1c2d;
   color: #FFFFFF;
 }
 .alert-box.alert-close {
@@ -3030,13 +3031,13 @@ meta.foundation-mq-topbar {
   font-size: 0.6875rem;
   line-height: 0.6875rem;
   text-transform: uppercase;
-  color: #334D5C;
+  color: #932134;
 }
 .breadcrumbs > *:hover a, .breadcrumbs > *:focus a {
   text-decoration: underline;
 }
 .breadcrumbs > * a {
-  color: #334D5C;
+  color: #932134;
 }
 .breadcrumbs > *.current {
   cursor: default;
@@ -4548,10 +4549,10 @@ kbd {
 .panel.callout {
   border-style: solid;
   border-width: 1px;
-  border-color: #cedce4;
+  border-color: #f1c3cb;
   margin-bottom: 1.25rem;
   padding: 1.25rem;
-  background: #f1f5f7;
+  background: #fbeff1;
   color: #333333;
 }
 .panel.callout > :first-child {
@@ -4571,10 +4572,10 @@ kbd {
   line-height: 1.4;
 }
 .panel.callout a:not(.button) {
-  color: #334D5C;
+  color: #932134;
 }
 .panel.callout a:not(.button):hover, .panel.callout a:not(.button):focus {
-  color: #2c424f;
+  color: #7e1c2d;
 }
 .panel.radius {
   border-radius: 3px;
@@ -4759,16 +4760,16 @@ dialog[open] {
 }
 .side-nav li a:not(.button) {
   display: block;
-  color: #334D5C;
+  color: #932134;
   margin: 0;
   padding: 0.4375rem 0.875rem;
 }
 .side-nav li a:not(.button):hover, .side-nav li a:not(.button):focus {
   background: hsla(0, 0%, 0%, 0.025);
-  color: #1f2e37;
+  color: #58141f;
 }
 .side-nav li.active > a:first-child:not(.button) {
-  color: #1f2e37;
+  color: #58141f;
   font-weight: normal;
   font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
@@ -4780,7 +4781,7 @@ dialog[open] {
   border-top-color: #E4E4E4;
 }
 .side-nav li.heading {
-  color: #334D5C;
+  color: #932134;
   font-size: 1rem;
   font-weight: bold;
   text-transform: uppercase;
@@ -4825,7 +4826,7 @@ dialog[open] {
 .sub-nav li.active a {
   border-radius: 3px;
   font-weight: normal;
-  background: #334D5C;
+  background: #932134;
   padding: 0.1875rem 1rem;
   cursor: default;
   color: #FFFFFF;
@@ -4833,7 +4834,7 @@ dialog[open] {
 .sub-nav dt.active a:hover,
 .sub-nav dd.active a:hover,
 .sub-nav li.active a:hover {
-  background: #2c424f;
+  background: #7e1c2d;
 }
 
 table {
@@ -4898,7 +4899,7 @@ table tr td {
   transition: all 200ms ease-out;
 }
 .th:hover, .th:focus {
-  box-shadow: 0 0 6px 1px rgba(51, 77, 92, 0.5);
+  box-shadow: 0 0 6px 1px rgba(147, 33, 52, 0.5);
 }
 .th.radius {
   border-radius: 3px;
@@ -5086,12 +5087,12 @@ td {
 
 /* Default Link Styles */
 a {
-  color: #334D5C;
+  color: #932134;
   text-decoration: none;
   line-height: inherit;
 }
 a:hover, a:focus {
-  color: #2c424f;
+  color: #7e1c2d;
 }
 a img {
   border: none;
@@ -5838,15 +5839,15 @@ a:visited {
 }
 
 a:hover {
-  color: #21323b;
+  color: #691825;
 }
 
 a:focus {
-  color: #57849e;
+  color: #d5455d;
 }
 
 a:active {
-  color: #0f161a;
+  color: #400e17;
 }
 
 /* Customize Foundation Typography
@@ -5971,8 +5972,8 @@ figcaption a,
 
 figcaption a:hover,
 .masthead-caption a:hover {
-  border-bottom: 2px solid #334D5C;
-  color: #334D5C;
+  border-bottom: 2px solid #932134;
+  color: #932134;
 }
 
 .masthead-caption {
@@ -6574,11 +6575,11 @@ body.video cite {
 /* Masthead
 ------------------------------------------------------------------- */
 #masthead {
-  background-color: #334D5C;
+  background-color: #932134;
 }
 
 #masthead-no-image-header {
-  background-color: #334D5C;
+  background-color: #932134;
 }
 
 #masthead-with-text {
@@ -6591,11 +6592,11 @@ body.video cite {
 }
 
 #masthead-no-image-header {
-  height: 175px;
+  height: 200px;
 }
 
 #masthead-no-image-header #logo img {
-  margin-top: 60px;
+  margin-top: 10px;
 }
 
 /* Masthead › small-only
@@ -6726,7 +6727,7 @@ body.video cite {
 }
 
 #page-meta .button:hover {
-  background: #334D5C;
+  background: #932134;
 }
 
 .meta-info p {

@@ -1,11 +1,10 @@
 ---
-layout: page
-title: "Scholarship Obligations"
+layout: page-fullwidth
+title: "Obligations for SFS@BAMA Scholarship Recipient"
 meta_title: "SFS@BAMA"
 permalink: "/obligations/"
 ---
 
-## Obligations for SFS@BAMA Scholarship Recipient
 
 The SFS@BAMA Scholarship Recipient must agree to:
 

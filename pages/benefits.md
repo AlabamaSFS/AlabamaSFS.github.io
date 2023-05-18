@@ -1,11 +1,10 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Scholarship Benefits"
 meta_title: "SFS@BAMA"
 permalink: "/benefits/"
 ---
 
-## Scholarship Benefits
 
 Each SFS@BAMA recipient will receive all of the following:
 

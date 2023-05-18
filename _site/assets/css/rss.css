@@ -15,6 +15,7 @@
 /* Corporate Identity Colorpalette
    https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
 ------------------------------------------------------------------- */
+/*$ci-1: #334D5C;		// dark turquoise */
 /* Foundation Color Variables
 ------------------------------------------------------------------- */
 /* Grey Scale
@@ -131,7 +132,7 @@ meta.foundation-data-attribute-namespace {
 
 channel > title {
   text-align: center;
-  color: #6590aa;
+  color: #da5a6f;
   font-family: "Volkhov", Georgia, Times, serif;
   font-size: 3.6615em;
   font-weight: bolder;
@@ -169,7 +170,7 @@ item > title {
   margin-bottom: 0.5em;
 }
 item > link {
-  color: #334D5C;
+  color: #932134;
 }
 item > pubDate {
   color: #A4A4A4;

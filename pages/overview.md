@@ -1,11 +1,9 @@
 ---
-layout: page
-title: ""
+layout: page-fullwidth
+title: "SFS@BAMA: Shaping the Next Generation of Cyber Professionals"
 header:
 permalink: "/overview/"
 ---
-
-## SFS@BAMA: Shaping the Next Generation of Cyber Professionals
 
 SFS@BAMA is a trans-disciplinary scholarship program for students interested in careers in cyber security-related professions (examples include, but are not limited to the following: Network Attack, Network Defense, Cyber Crime Investigation, Cyber Ops Planner, Security Architect, Cyber Policy and Strategy Manager).
 The SFS@BAMA [NSF-1946599](https://nsf.gov/awardsearch/showAward?AWD_ID=1946599&HistoricalAwards=false) program seeks to address the growing national need for highly-trained, well-rounded cyber security professionals by recruiting a diverse set of scholars from three academic programs at the University of Alabama: [Computer Science](http://cs.ua.edu/), [Cyber Security](http://cs.ua.edu/undergraduate/bachelor-science-cyber-security/), [Criminology and Criminal Justice](http://cj.ua.edu/), and [Management Information Systems](https://ism.culverhouse.ua.edu/).

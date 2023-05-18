@@ -1,11 +1,10 @@
 ---
-layout: page
-title: "Scholarship Application"
+layout: page-fullwidth
+title: "SFS@BAMA Application Materials"
 meta_title: "SFS@BAMA"
 permalink: "/application/"
 ---
 
-## SFS@BAMA Application Materials
 
 Priority consideration for the Fall 2023 cohort will be given to those who complete the application submission process prior to **28 February 2023**. Please note that applications will be reviewed as they are received, and there is no guarantee that a space will still be available by or beyond the priority consideration date. The final deadline is **15 April 2023**. No applications for the Fall 2023 cohort will be accepted after that date.
 

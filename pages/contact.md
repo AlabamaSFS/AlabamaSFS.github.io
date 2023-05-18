@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Contact"
 meta_title: "Questions?"
 teaser: "Get in touch with us"

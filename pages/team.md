@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "SFS@BAMA Team"
 permalink: "/team/"
 header:
