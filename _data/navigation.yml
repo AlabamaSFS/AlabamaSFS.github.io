@@ -1,0 +1,42 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: "About"
+  url: "/about/"
+  side: left
+  dropdown:
+   - title: "About SFS@BAMA"
+     url: "/overview/"
+   - title: "About SFS"
+     url: "/sfs-overview/"
+   - title: "Team"
+     url: "/team/"
+
+- title: "Benefits"
+  url: "/benefits/"
+  side: left
+
+- title: "Eligibility"
+  url: "/eligibility/"
+  side: left
+
+- title: "Obligations"
+  url: "/obligations/"
+  side: left
+
+- title: "Application"
+  url: "/application/"
+  side: left
+
+- title: "Photos"
+  url: "/photos/"
+  side: left
+
+- title: "FAQs"
+  url: "/faq/"
+  side: left
+
+- title: "Contact"
+  url: "/contact/"
+  side: right

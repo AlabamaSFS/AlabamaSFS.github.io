@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/AlabamaSFS/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/AlabamaSFS/assets/css/atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>http://localhost:4000/AlabamaSFS/</id>
+	<title>SFS@BAMA</title>
+	<updated>2023-05-17T18:51:29-06:00</updated>
+
+	<subtitle>SFS@BAMA is an NSF funded project entitled &quot;SFS@BAMA: Shaping the Next Generation of Cyber Professionals&quot;</subtitle>
+
+	
+		
+		<author>
+			
+				<name>Jeff Carver</name>
+			
+			
+			
+				<uri>https://carver.cs.ua.edu/</uri>
+			
+		</author>
+	
+
+	<link href="http://localhost:4000/AlabamaSFS/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://localhost:4000/AlabamaSFS/" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="4.3.2">Jekyll</generator>
+
+	
+</feed>

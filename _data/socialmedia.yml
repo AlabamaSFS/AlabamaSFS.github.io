@@ -1,0 +1,14 @@
+- name: GitHub
+  url: http://github.com/AlabamaSFS
+  class: icon-github
+  title: "AlabamaSFS GitHub Organization"
+
+#- name: YouTube
+#  url:
+#  class: icon-youtube
+#  title:
+
+#- name: Twitter
+#  url: http://twitter.com/iancosden
+#  class: icon-twitter
+#  title: "Follow us on Twitter"
