@@ -28,11 +28,10 @@ Note the
 If you are having trouble with your local preview try `rm -rf _site`, followed by `bundle update`, then `bundle exec jekyll serve`.
 
 ## Funding
-This project is supported by National Science Foundation awards [2017424](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2017424&HistoricalAwards=false) and [2017259](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2017259&HistoricalAwards=false). Any opinions, findings, conclusions or recommendations expressed in this material are those of the developers and do not necessarily reflect the views of the National Science Foundation.
+This project is supported by National Science Foundation awards [1946599](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1946599). Any opinions, findings, conclusions or recommendations expressed in this material are those of the developers and do not necessarily reflect the views of the National Science Foundation.
 
 ![](https://i.imgur.com/9qujX6H.png)
 
 
 ### Contacts
-Ian A. Cosden, Princeton University  
 Jeffrey Carver, University of Alabama
