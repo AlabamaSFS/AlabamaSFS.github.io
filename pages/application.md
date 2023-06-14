@@ -20,6 +20,6 @@ All applicants are required to complete the Student Application Form.
 * Leadership potential and commitment to service
 * Knowledge and interest in the Cyber Security field
 1. Read through the following documents, completely (the application will ask you to certify you have read them)
-* [The Service Agreement Form](../forms/CyberCorpsSFSServiceAgreement.pdf){:target="_blank"}
-* [The SFS@BAMA Agreement Form](../forms/AlabamaAgreement.pdf){:target="_blank"}
+* [The Service Agreement Form](https://alabama.box.com/s/r5vqcsbm04lk7h6dhkv5cewouese5941){:target="_blank"}
+* [The SFS@BAMA Agreement Form](https://alabama.box.com/s/03nozzuhghe66syqb7rubfeeprhsyk92){:target="_blank"}
 1. Applications are closed for the Fall 2023 cohort.
