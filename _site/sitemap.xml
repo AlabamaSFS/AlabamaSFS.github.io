@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 29 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 30 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
-	<loc>http://localhost:4000/AlabamaSFS/404.html</loc>
+	<loc>http://localhost:4000/404.html</loc>
 	
-		<lastmod>2023-06-15T14:26:01-05:00</lastmod>
+		<lastmod>2023-08-25T17:45:26-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -20,24 +20,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/AlabamaSFS/about/</loc>
+	<loc>http://localhost:4000/about/</loc>
 	
-		<lastmod>2023-06-15T14:26:01-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/AlabamaSFS/application/</loc>
-	
-		<lastmod>2023-06-15T14:26:01-05:00</lastmod>
+		<lastmod>2023-08-25T17:45:26-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -50,9 +35,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/AlabamaSFS/blog/archive/</loc>
+	<loc>http://localhost:4000/application/</loc>
 	
-		<lastmod>2023-06-15T14:26:01-05:00</lastmod>
+		<lastmod>2023-08-25T17:45:26-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -64,12 +49,10 @@
 	
 
 	
-
-	
 	<url>
-	<loc>http://localhost:4000/AlabamaSFS/atom.xml</loc>
+	<loc>http://localhost:4000/blog/archive/</loc>
 	
-		<lastmod>2023-06-15T14:26:01-05:00</lastmod>
+		<lastmod>2023-08-25T17:45:26-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -84,238 +67,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/AlabamaSFS/benefits/</loc>
+	<loc>http://localhost:4000/atom.xml</loc>
 	
-		<lastmod>2023-06-15T14:26:01-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/AlabamaSFS/contact/</loc>
-	
-		<lastmod>2023-06-15T14:26:01-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/AlabamaSFS/courses/</loc>
-	
-		<lastmod>2023-06-15T14:26:01-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/AlabamaSFS/eligibility/</loc>
-	
-		<lastmod>2023-06-15T14:26:01-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/AlabamaSFS/faq/</loc>
-	
-		<lastmod>2023-06-15T14:26:01-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/AlabamaSFS/feed.xml</loc>
-	
-		<lastmod>2023-06-15T14:26:01-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/AlabamaSFS/humans.txt</loc>
-	
-		<lastmod>2023-06-15T14:26:01-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/AlabamaSFS/blog/</loc>
-	
-		<lastmod>2023-06-15T14:26:01-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/AlabamaSFS/</loc>
-	
-		<lastmod>2023-06-15T14:26:01-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/AlabamaSFS/obligations/</loc>
-	
-		<lastmod>2023-06-15T14:26:01-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/AlabamaSFS/overview/</loc>
-	
-		<lastmod>2023-06-15T14:26:01-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/AlabamaSFS/photos/</loc>
-	
-		<lastmod>2023-06-15T14:26:01-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/AlabamaSFS/robots.txt</loc>
-	
-		<lastmod>2023-06-15T14:26:01-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/AlabamaSFS/search/</loc>
-	
-		<lastmod>2023-06-15T14:26:01-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/AlabamaSFS/sfs-overview/</loc>
-	
-		<lastmod>2023-06-15T14:26:01-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/AlabamaSFS/sitemap.xml</loc>
-	
-		<lastmod>2023-06-15T14:26:01-05:00</lastmod>
+		<lastmod>2023-08-25T17:45:26-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -330,9 +84,270 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/AlabamaSFS/team/</loc>
+	<loc>http://localhost:4000/benefits/</loc>
 	
-		<lastmod>2023-06-15T14:26:01-05:00</lastmod>
+		<lastmod>2023-08-25T17:45:26-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/contact/</loc>
+	
+		<lastmod>2023-08-25T17:45:26-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/courses/</loc>
+	
+		<lastmod>2023-08-25T17:45:26-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/eligibility/</loc>
+	
+		<lastmod>2023-08-25T17:45:26-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/faq/</loc>
+	
+		<lastmod>2023-08-25T17:45:26-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/feed.xml</loc>
+	
+		<lastmod>2023-08-25T17:45:26-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/humans.txt</loc>
+	
+		<lastmod>2023-08-25T17:45:26-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/blog/</loc>
+	
+		<lastmod>2023-08-25T17:45:26-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/</loc>
+	
+		<lastmod>2023-08-25T17:45:26-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/obligations/</loc>
+	
+		<lastmod>2023-08-25T17:45:26-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/operational/</loc>
+	
+		<lastmod>2023-08-25T17:45:26-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/overview/</loc>
+	
+		<lastmod>2023-08-25T17:45:26-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/photos/</loc>
+	
+		<lastmod>2023-08-25T17:45:26-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/robots.txt</loc>
+	
+		<lastmod>2023-08-25T17:45:26-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/search/</loc>
+	
+		<lastmod>2023-08-25T17:45:26-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/sfs-overview/</loc>
+	
+		<lastmod>2023-08-25T17:45:26-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/sitemap.xml</loc>
+	
+		<lastmod>2023-08-25T17:45:26-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/team/</loc>
+	
+		<lastmod>2023-08-25T17:45:26-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>

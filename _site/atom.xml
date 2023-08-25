@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="/AlabamaSFS/assets/xslt/atom.xslt" ?>
-<?xml-stylesheet type="text/css" href="/AlabamaSFS/assets/css/atom.css" ?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>http://localhost:4000/AlabamaSFS/</id>
+	<id>http://localhost:4000/</id>
 	<title>SFS@BAMA</title>
-	<updated>2023-06-15T14:26:01-05:00</updated>
+	<updated>2023-08-25T17:45:26-05:00</updated>
 
 	<subtitle>SFS@BAMA: Shaping the Next Generation of Cyber Professionals is an NSF funded project</subtitle>
 
@@ -21,8 +21,8 @@
 		</author>
 	
 
-	<link href="http://localhost:4000/AlabamaSFS/atom.xml" rel="self" type="application/rss+xml" />
-	<link href="http://localhost:4000/AlabamaSFS/" rel="alternate" type="text/html" />
+	<link href="http://localhost:4000/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
 
 	<generator uri="http://jekyllrb.com" version="4.3.2">Jekyll</generator>
 
