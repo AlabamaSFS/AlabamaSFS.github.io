@@ -22,4 +22,4 @@ All applicants are required to complete the Student Application Form.
 1. Read through the following documents, completely (the application will ask you to certify you have read them)
 * [The Service Agreement Form](https://alabama.box.com/s/r5vqcsbm04lk7h6dhkv5cewouese5941){:target="_blank"}
 * [The SFS@BAMA Agreement Form](https://alabama.box.com/s/03nozzuhghe66syqb7rubfeeprhsyk92){:target="_blank"}
-* **Applications for the Fall 2024 semester are closed.**
+* **We are not accepting applications for Fall 2025.**
