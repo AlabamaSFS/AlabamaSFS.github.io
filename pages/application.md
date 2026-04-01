@@ -5,9 +5,11 @@ meta_title: "SFS@BAMA"
 permalink: "/application/"
 ---
 
+<!--
+Priority consideration for the Fall 2025 cohort will be given to those who complete the application submission process prior to **28 February 2024**. Please note that applications will be reviewed as they are received, and there is no guarantee that a space will still be available by or beyond the priority consideration date. The final deadline was **15 April 2024**. No applications for the Fall 2024 cohort will be accepted after that date.
+-->
 
-Priority consideration for the Fall 2024 cohort will be given to those who complete the application submission process prior to **28 February 2024**. Please note that applications will be reviewed as they are received, and there is no guarantee that a space will still be available by or beyond the priority consideration date. The final deadline was **15 April 2024**. No applications for the Fall 2024 cohort will be accepted after that date.
-
+We are now accepting applications for the Fall 2025 cohort. Applications will be reviewed as they are received.
 
 All applicants are required to complete the Student Application Form.
 **Prior to completing the Student Application Form**, you should perform the following tasks. (The Application Form will ask for this information)
@@ -22,4 +24,4 @@ All applicants are required to complete the Student Application Form.
 1. Read through the following documents, completely (the application will ask you to certify you have read them)
 * [The Service Agreement Form](https://alabama.box.com/s/r5vqcsbm04lk7h6dhkv5cewouese5941){:target="_blank"}
 * [The SFS@BAMA Agreement Form](https://alabama.box.com/s/03nozzuhghe66syqb7rubfeeprhsyk92){:target="_blank"}
-* **We are not accepting applications for Fall 2025.**
+* **Complete the application [here](https://universityofalabama.az1.qualtrics.com/jfe/form/SV_0BanvRjXgCN5Dvv){:target=_blank"}**
