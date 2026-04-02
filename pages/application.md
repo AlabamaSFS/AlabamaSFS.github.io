@@ -9,7 +9,7 @@ permalink: "/application/"
 Priority consideration for the Fall 2026 cohort will be given to those who complete the application submission process prior to **28 February 2024**. Please note that applications will be reviewed as they are received, and there is no guarantee that a space will still be available by or beyond the priority consideration date. The final deadline was **15 April 2024**. No applications for the Fall 2024 cohort will be accepted after that date.
 -->
 
-We are now accepting applications for the Fall 2025 cohort. Applications will be reviewed as they are received.
+We are now accepting applications for the Fall 2026 cohort. Applications will be reviewed as they are received.
 
 All applicants are required to complete the Student Application Form.
 **Prior to completing the Student Application Form**, you should perform the following tasks. (The Application Form will ask for this information)
